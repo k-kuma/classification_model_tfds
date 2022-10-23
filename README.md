@@ -1,3 +1,3 @@
 # classification_model_tfds
 
-Create simple classification model from tensorflow dataset 
+Create image classification simple model from tensorflow dataset 
